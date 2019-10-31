@@ -1,3 +1,8 @@
 Nova atualização
 Novo teste.
+<<<<<<< HEAD
 Teste número 3.
+=======
+Teste 3 notbook
+teste 4 notebook
+>>>>>>> raymison
