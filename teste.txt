@@ -1,13 +1,10 @@
 Nova atualização
 Novo teste.
 Teste número 3.
+Novo teste
 Teste 3 notbook
 teste 4 notebook
 Teste 4 notebook
 Teste 5 notebook
-<<<<<<< HEAD
 Teste 6 notebook.
 Teste 7 note.
-=======
-Teste 6 notebook.
->>>>>>> f89816d1bcc0b979d4793ac9aa177249e263df25
